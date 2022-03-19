@@ -1,0 +1,16 @@
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OperatorsAndCheck\OperatorsAndCheck\bin\Debug\net5.0\OperatorsAndCheck.exe
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OperatorsAndCheck\OperatorsAndCheck\bin\Debug\net5.0\OperatorsAndCheck.deps.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OperatorsAndCheck\OperatorsAndCheck\bin\Debug\net5.0\OperatorsAndCheck.runtimeconfig.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OperatorsAndCheck\OperatorsAndCheck\bin\Debug\net5.0\OperatorsAndCheck.runtimeconfig.dev.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OperatorsAndCheck\OperatorsAndCheck\bin\Debug\net5.0\OperatorsAndCheck.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OperatorsAndCheck\OperatorsAndCheck\bin\Debug\net5.0\ref\OperatorsAndCheck.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OperatorsAndCheck\OperatorsAndCheck\bin\Debug\net5.0\OperatorsAndCheck.pdb
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OperatorsAndCheck\OperatorsAndCheck\obj\Debug\net5.0\OperatorsAndCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OperatorsAndCheck\OperatorsAndCheck\obj\Debug\net5.0\OperatorsAndCheck.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OperatorsAndCheck\OperatorsAndCheck\obj\Debug\net5.0\OperatorsAndCheck.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OperatorsAndCheck\OperatorsAndCheck\obj\Debug\net5.0\OperatorsAndCheck.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OperatorsAndCheck\OperatorsAndCheck\obj\Debug\net5.0\OperatorsAndCheck.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OperatorsAndCheck\OperatorsAndCheck\obj\Debug\net5.0\ref\OperatorsAndCheck.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OperatorsAndCheck\OperatorsAndCheck\obj\Debug\net5.0\OperatorsAndCheck.pdb
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OperatorsAndCheck\OperatorsAndCheck\obj\Debug\net5.0\OperatorsAndCheck.genruntimeconfig.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OperatorsAndCheck\OperatorsAndCheck\obj\Debug\net5.0\OperatorsAndCheck.csproj.AssemblyReference.cache
