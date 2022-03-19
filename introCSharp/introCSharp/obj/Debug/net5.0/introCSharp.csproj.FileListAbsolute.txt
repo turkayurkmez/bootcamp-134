@@ -1,0 +1,16 @@
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\introCSharp\introCSharp\bin\Debug\net5.0\introCSharp.exe
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\introCSharp\introCSharp\bin\Debug\net5.0\introCSharp.deps.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\introCSharp\introCSharp\bin\Debug\net5.0\introCSharp.runtimeconfig.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\introCSharp\introCSharp\bin\Debug\net5.0\introCSharp.runtimeconfig.dev.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\introCSharp\introCSharp\bin\Debug\net5.0\introCSharp.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\introCSharp\introCSharp\bin\Debug\net5.0\ref\introCSharp.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\introCSharp\introCSharp\bin\Debug\net5.0\introCSharp.pdb
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\introCSharp\introCSharp\obj\Debug\net5.0\introCSharp.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\introCSharp\introCSharp\obj\Debug\net5.0\introCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\introCSharp\introCSharp\obj\Debug\net5.0\introCSharp.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\introCSharp\introCSharp\obj\Debug\net5.0\introCSharp.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\introCSharp\introCSharp\obj\Debug\net5.0\introCSharp.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\introCSharp\introCSharp\obj\Debug\net5.0\introCSharp.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\introCSharp\introCSharp\obj\Debug\net5.0\ref\introCSharp.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\introCSharp\introCSharp\obj\Debug\net5.0\introCSharp.pdb
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\introCSharp\introCSharp\obj\Debug\net5.0\introCSharp.genruntimeconfig.cache
