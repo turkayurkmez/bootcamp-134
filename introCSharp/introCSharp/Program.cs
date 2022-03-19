@@ -51,6 +51,26 @@ namespace introCSharp
                 double bmi = weight / (height * height);
 
                 Console.WriteLine("Your bmi value is " + bmi);
+
+                if (bmi < 18.5)
+                {
+                    Console.WriteLine("You are Underweight");
+                }
+                else if (bmi <= 24.9)
+                {
+                    Console.WriteLine("You are normal weight");
+                }
+                else if (bmi <= 29.9)
+                {
+                    Console.WriteLine("You are overweight");
+                }
+                else
+                {
+                    Console.WriteLine("You are obese");
+
+                }
+
+
             }
             catch (FormatException)
             {

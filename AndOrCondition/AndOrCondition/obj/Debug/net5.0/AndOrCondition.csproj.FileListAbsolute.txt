@@ -1,0 +1,15 @@
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\AndOrCondition\AndOrCondition\bin\Debug\net5.0\AndOrCondition.exe
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\AndOrCondition\AndOrCondition\bin\Debug\net5.0\AndOrCondition.deps.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\AndOrCondition\AndOrCondition\bin\Debug\net5.0\AndOrCondition.runtimeconfig.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\AndOrCondition\AndOrCondition\bin\Debug\net5.0\AndOrCondition.runtimeconfig.dev.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\AndOrCondition\AndOrCondition\bin\Debug\net5.0\AndOrCondition.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\AndOrCondition\AndOrCondition\bin\Debug\net5.0\ref\AndOrCondition.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\AndOrCondition\AndOrCondition\bin\Debug\net5.0\AndOrCondition.pdb
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\AndOrCondition\AndOrCondition\obj\Debug\net5.0\AndOrCondition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\AndOrCondition\AndOrCondition\obj\Debug\net5.0\AndOrCondition.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\AndOrCondition\AndOrCondition\obj\Debug\net5.0\AndOrCondition.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\AndOrCondition\AndOrCondition\obj\Debug\net5.0\AndOrCondition.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\AndOrCondition\AndOrCondition\obj\Debug\net5.0\AndOrCondition.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\AndOrCondition\AndOrCondition\obj\Debug\net5.0\ref\AndOrCondition.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\AndOrCondition\AndOrCondition\obj\Debug\net5.0\AndOrCondition.pdb
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\AndOrCondition\AndOrCondition\obj\Debug\net5.0\AndOrCondition.genruntimeconfig.cache
