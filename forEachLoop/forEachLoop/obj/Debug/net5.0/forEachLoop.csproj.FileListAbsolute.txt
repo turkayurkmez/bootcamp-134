@@ -1,0 +1,16 @@
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\forEachLoop\forEachLoop\bin\Debug\net5.0\forEachLoop.exe
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\forEachLoop\forEachLoop\bin\Debug\net5.0\forEachLoop.deps.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\forEachLoop\forEachLoop\bin\Debug\net5.0\forEachLoop.runtimeconfig.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\forEachLoop\forEachLoop\bin\Debug\net5.0\forEachLoop.runtimeconfig.dev.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\forEachLoop\forEachLoop\bin\Debug\net5.0\forEachLoop.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\forEachLoop\forEachLoop\bin\Debug\net5.0\ref\forEachLoop.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\forEachLoop\forEachLoop\bin\Debug\net5.0\forEachLoop.pdb
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\forEachLoop\forEachLoop\obj\Debug\net5.0\forEachLoop.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\forEachLoop\forEachLoop\obj\Debug\net5.0\forEachLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\forEachLoop\forEachLoop\obj\Debug\net5.0\forEachLoop.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\forEachLoop\forEachLoop\obj\Debug\net5.0\forEachLoop.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\forEachLoop\forEachLoop\obj\Debug\net5.0\forEachLoop.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\forEachLoop\forEachLoop\obj\Debug\net5.0\forEachLoop.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\forEachLoop\forEachLoop\obj\Debug\net5.0\ref\forEachLoop.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\forEachLoop\forEachLoop\obj\Debug\net5.0\forEachLoop.pdb
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\forEachLoop\forEachLoop\obj\Debug\net5.0\forEachLoop.genruntimeconfig.cache

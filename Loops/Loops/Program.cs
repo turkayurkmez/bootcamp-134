@@ -38,6 +38,27 @@ namespace Loops
                 }
             }
 
+            //do
+            //{
+            //    // 2. Kullanıcıdan bir tahmin istenir.
+            //    Console.WriteLine("Tahmininizi girin:");
+            //    int guess = Convert.ToInt32(Console.ReadLine());
+            //    // 3. Girilen tahmine göre aşağı ya da yukarı biçiminde yönlendirilir.
+            //    if (guess < randomNumber)
+            //    {
+            //        Console.WriteLine("Yukarı!");
+            //    }
+            //    else if (guess > randomNumber)
+            //    {
+            //        Console.WriteLine("Aşağı!");
+            //    }
+            //    else
+            //    {
+            //        Console.WriteLine("Bildiniz!");
+            //        isGameFinished = true;
+            //    }
+            //} while (!isGameFinished);
+
         }
     }
 }
