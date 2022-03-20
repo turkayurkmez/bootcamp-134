@@ -1,0 +1,16 @@
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\ArraysAndCollections\ArraysAndCollections\bin\Debug\net5.0\ArraysAndCollections.exe
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\ArraysAndCollections\ArraysAndCollections\bin\Debug\net5.0\ArraysAndCollections.deps.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\ArraysAndCollections\ArraysAndCollections\bin\Debug\net5.0\ArraysAndCollections.runtimeconfig.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\ArraysAndCollections\ArraysAndCollections\bin\Debug\net5.0\ArraysAndCollections.runtimeconfig.dev.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\ArraysAndCollections\ArraysAndCollections\bin\Debug\net5.0\ArraysAndCollections.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\ArraysAndCollections\ArraysAndCollections\bin\Debug\net5.0\ref\ArraysAndCollections.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\ArraysAndCollections\ArraysAndCollections\bin\Debug\net5.0\ArraysAndCollections.pdb
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\ArraysAndCollections\ArraysAndCollections\obj\Debug\net5.0\ArraysAndCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\ArraysAndCollections\ArraysAndCollections\obj\Debug\net5.0\ArraysAndCollections.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\ArraysAndCollections\ArraysAndCollections\obj\Debug\net5.0\ArraysAndCollections.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\ArraysAndCollections\ArraysAndCollections\obj\Debug\net5.0\ArraysAndCollections.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\ArraysAndCollections\ArraysAndCollections\obj\Debug\net5.0\ArraysAndCollections.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\ArraysAndCollections\ArraysAndCollections\obj\Debug\net5.0\ref\ArraysAndCollections.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\ArraysAndCollections\ArraysAndCollections\obj\Debug\net5.0\ArraysAndCollections.pdb
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\ArraysAndCollections\ArraysAndCollections\obj\Debug\net5.0\ArraysAndCollections.genruntimeconfig.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\ArraysAndCollections\ArraysAndCollections\obj\Debug\net5.0\ArraysAndCollections.csproj.AssemblyReference.cache
