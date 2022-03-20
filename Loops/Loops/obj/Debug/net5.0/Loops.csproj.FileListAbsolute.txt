@@ -1,0 +1,16 @@
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\Loops\Loops\bin\Debug\net5.0\Loops.exe
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\Loops\Loops\bin\Debug\net5.0\Loops.deps.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\Loops\Loops\bin\Debug\net5.0\Loops.runtimeconfig.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\Loops\Loops\bin\Debug\net5.0\Loops.runtimeconfig.dev.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\Loops\Loops\bin\Debug\net5.0\Loops.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\Loops\Loops\bin\Debug\net5.0\ref\Loops.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\Loops\Loops\bin\Debug\net5.0\Loops.pdb
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\Loops\Loops\obj\Debug\net5.0\Loops.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\Loops\Loops\obj\Debug\net5.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\Loops\Loops\obj\Debug\net5.0\Loops.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\Loops\Loops\obj\Debug\net5.0\Loops.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\Loops\Loops\obj\Debug\net5.0\Loops.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\Loops\Loops\obj\Debug\net5.0\Loops.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\Loops\Loops\obj\Debug\net5.0\ref\Loops.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\Loops\Loops\obj\Debug\net5.0\Loops.pdb
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\Loops\Loops\obj\Debug\net5.0\Loops.genruntimeconfig.cache
