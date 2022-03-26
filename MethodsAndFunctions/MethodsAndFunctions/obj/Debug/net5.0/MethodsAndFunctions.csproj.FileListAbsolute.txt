@@ -1,0 +1,16 @@
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\MethodsAndFunctions\MethodsAndFunctions\bin\Debug\net5.0\MethodsAndFunctions.exe
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\MethodsAndFunctions\MethodsAndFunctions\bin\Debug\net5.0\MethodsAndFunctions.deps.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\MethodsAndFunctions\MethodsAndFunctions\bin\Debug\net5.0\MethodsAndFunctions.runtimeconfig.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\MethodsAndFunctions\MethodsAndFunctions\bin\Debug\net5.0\MethodsAndFunctions.runtimeconfig.dev.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\MethodsAndFunctions\MethodsAndFunctions\bin\Debug\net5.0\MethodsAndFunctions.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\MethodsAndFunctions\MethodsAndFunctions\bin\Debug\net5.0\ref\MethodsAndFunctions.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\MethodsAndFunctions\MethodsAndFunctions\bin\Debug\net5.0\MethodsAndFunctions.pdb
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\MethodsAndFunctions\MethodsAndFunctions\obj\Debug\net5.0\MethodsAndFunctions.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\MethodsAndFunctions\MethodsAndFunctions\obj\Debug\net5.0\MethodsAndFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\MethodsAndFunctions\MethodsAndFunctions\obj\Debug\net5.0\MethodsAndFunctions.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\MethodsAndFunctions\MethodsAndFunctions\obj\Debug\net5.0\MethodsAndFunctions.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\MethodsAndFunctions\MethodsAndFunctions\obj\Debug\net5.0\MethodsAndFunctions.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\MethodsAndFunctions\MethodsAndFunctions\obj\Debug\net5.0\MethodsAndFunctions.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\MethodsAndFunctions\MethodsAndFunctions\obj\Debug\net5.0\ref\MethodsAndFunctions.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\MethodsAndFunctions\MethodsAndFunctions\obj\Debug\net5.0\MethodsAndFunctions.pdb
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\MethodsAndFunctions\MethodsAndFunctions\obj\Debug\net5.0\MethodsAndFunctions.genruntimeconfig.cache
