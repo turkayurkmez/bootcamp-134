@@ -1,0 +1,16 @@
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\BuiltInMethods\BuiltInMethods\bin\Debug\net5.0\BuiltInMethods.exe
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\BuiltInMethods\BuiltInMethods\bin\Debug\net5.0\BuiltInMethods.deps.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\BuiltInMethods\BuiltInMethods\bin\Debug\net5.0\BuiltInMethods.runtimeconfig.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\BuiltInMethods\BuiltInMethods\bin\Debug\net5.0\BuiltInMethods.runtimeconfig.dev.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\BuiltInMethods\BuiltInMethods\bin\Debug\net5.0\BuiltInMethods.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\BuiltInMethods\BuiltInMethods\bin\Debug\net5.0\ref\BuiltInMethods.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\BuiltInMethods\BuiltInMethods\bin\Debug\net5.0\BuiltInMethods.pdb
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\BuiltInMethods\BuiltInMethods\obj\Debug\net5.0\BuiltInMethods.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\BuiltInMethods\BuiltInMethods\obj\Debug\net5.0\BuiltInMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\BuiltInMethods\BuiltInMethods\obj\Debug\net5.0\BuiltInMethods.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\BuiltInMethods\BuiltInMethods\obj\Debug\net5.0\BuiltInMethods.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\BuiltInMethods\BuiltInMethods\obj\Debug\net5.0\BuiltInMethods.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\BuiltInMethods\BuiltInMethods\obj\Debug\net5.0\BuiltInMethods.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\BuiltInMethods\BuiltInMethods\obj\Debug\net5.0\ref\BuiltInMethods.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\BuiltInMethods\BuiltInMethods\obj\Debug\net5.0\BuiltInMethods.pdb
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\BuiltInMethods\BuiltInMethods\obj\Debug\net5.0\BuiltInMethods.genruntimeconfig.cache

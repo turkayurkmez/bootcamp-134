@@ -1,0 +1,15 @@
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\LoopInsideLoop\LoopInsideLoop\bin\Debug\net5.0\LoopInsideLoop.exe
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\LoopInsideLoop\LoopInsideLoop\bin\Debug\net5.0\LoopInsideLoop.deps.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\LoopInsideLoop\LoopInsideLoop\bin\Debug\net5.0\LoopInsideLoop.runtimeconfig.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\LoopInsideLoop\LoopInsideLoop\bin\Debug\net5.0\LoopInsideLoop.runtimeconfig.dev.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\LoopInsideLoop\LoopInsideLoop\bin\Debug\net5.0\LoopInsideLoop.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\LoopInsideLoop\LoopInsideLoop\bin\Debug\net5.0\ref\LoopInsideLoop.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\LoopInsideLoop\LoopInsideLoop\bin\Debug\net5.0\LoopInsideLoop.pdb
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\LoopInsideLoop\LoopInsideLoop\obj\Debug\net5.0\LoopInsideLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\LoopInsideLoop\LoopInsideLoop\obj\Debug\net5.0\LoopInsideLoop.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\LoopInsideLoop\LoopInsideLoop\obj\Debug\net5.0\LoopInsideLoop.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\LoopInsideLoop\LoopInsideLoop\obj\Debug\net5.0\LoopInsideLoop.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\LoopInsideLoop\LoopInsideLoop\obj\Debug\net5.0\LoopInsideLoop.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\LoopInsideLoop\LoopInsideLoop\obj\Debug\net5.0\ref\LoopInsideLoop.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\LoopInsideLoop\LoopInsideLoop\obj\Debug\net5.0\LoopInsideLoop.pdb
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\LoopInsideLoop\LoopInsideLoop\obj\Debug\net5.0\LoopInsideLoop.genruntimeconfig.cache
