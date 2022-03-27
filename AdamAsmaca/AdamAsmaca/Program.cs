@@ -20,29 +20,53 @@ namespace AdamAsmaca
              */
 
             bool isGameOver = false;
+            string[] words = { "ayna", "masa", "tarantula", "endoplazmikretikulum" };
             while (!isGameOver)
             {
-                string[] words = { "ayna", "masa", "tarantula", "endoplazmikretikulum" };
+             
                 string selectedWord = chooseWord(words);
                 string puzzle = replaceToStar(selectedWord);
 
                 Console.WriteLine(puzzle);
-                Console.WriteLine("Bir harf giriniz");
-                string letter = Console.ReadLine();
-                bool isLetterExistInWord = checkLetterInWord(selectedWord, letter);
-                if (isLetterExistInWord)
+                bool isWordFinding = false;
+                while (!isWordFinding)
                 {
-                    puzzle = replaceStarToLetter(selectedWord, puzzle, letter);
-                    Console.WriteLine(puzzle);
+                    Console.WriteLine("Bir harf giriniz");
+                    string letter = Console.ReadLine();
+                    bool isLetterExistInWord = checkLetterInWord(selectedWord, letter);
+                    if (isLetterExistInWord)
+                    {
+                        puzzle = replaceStarToLetter(selectedWord, puzzle, letter);
+                        Console.WriteLine(puzzle);
+                    }
+                   
+                    Console.WriteLine("Kelimeyi tahmin etmek ister misin? (E/H)");
+                    string answerForGuess = Console.ReadLine();
+                    if (answerForGuess.ToUpper() == "E")
+                    {
+                        Console.WriteLine("Tahmininizi giriniz:");
+                        string guess = Console.ReadLine();
+                        isWordFinding = compareGuessAndSelectedWord(guess, selectedWord);
+
+                    } 
                 }
                 //Console.WriteLine(puzzle);
-
-                isGameOver = true;
+                Console.WriteLine("Oyuna devam mı (E/H)?");
+                isGameOver = Console.ReadLine().ToUpper() == "H";
             }
         }
 
-      
+        private static bool compareGuessAndSelectedWord(string guess, string selectedWord)
+        {
+            return guess == selectedWord;
+        }
 
+
+        /// <summary>
+        /// Belirli kelimelerin içinden rastgele kelime seçer
+        /// </summary>
+        /// <param name="words">kelimelerin bulunduğu koleksiyon</param>
+        /// <returns></returns>
         static string chooseWord(string[] words)
         {
             Random random = new Random();
