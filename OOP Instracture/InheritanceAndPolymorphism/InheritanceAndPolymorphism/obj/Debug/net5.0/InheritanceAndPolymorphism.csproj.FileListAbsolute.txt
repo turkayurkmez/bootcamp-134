@@ -1,0 +1,16 @@
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\InheritanceAndPolymorphism\InheritanceAndPolymorphism\bin\Debug\net5.0\InheritanceAndPolymorphism.exe
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\InheritanceAndPolymorphism\InheritanceAndPolymorphism\bin\Debug\net5.0\InheritanceAndPolymorphism.deps.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\InheritanceAndPolymorphism\InheritanceAndPolymorphism\bin\Debug\net5.0\InheritanceAndPolymorphism.runtimeconfig.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\InheritanceAndPolymorphism\InheritanceAndPolymorphism\bin\Debug\net5.0\InheritanceAndPolymorphism.runtimeconfig.dev.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\InheritanceAndPolymorphism\InheritanceAndPolymorphism\bin\Debug\net5.0\InheritanceAndPolymorphism.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\InheritanceAndPolymorphism\InheritanceAndPolymorphism\bin\Debug\net5.0\ref\InheritanceAndPolymorphism.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\InheritanceAndPolymorphism\InheritanceAndPolymorphism\bin\Debug\net5.0\InheritanceAndPolymorphism.pdb
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\InheritanceAndPolymorphism\InheritanceAndPolymorphism\obj\Debug\net5.0\InheritanceAndPolymorphism.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\InheritanceAndPolymorphism\InheritanceAndPolymorphism\obj\Debug\net5.0\InheritanceAndPolymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\InheritanceAndPolymorphism\InheritanceAndPolymorphism\obj\Debug\net5.0\InheritanceAndPolymorphism.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\InheritanceAndPolymorphism\InheritanceAndPolymorphism\obj\Debug\net5.0\InheritanceAndPolymorphism.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\InheritanceAndPolymorphism\InheritanceAndPolymorphism\obj\Debug\net5.0\InheritanceAndPolymorphism.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\InheritanceAndPolymorphism\InheritanceAndPolymorphism\obj\Debug\net5.0\InheritanceAndPolymorphism.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\InheritanceAndPolymorphism\InheritanceAndPolymorphism\obj\Debug\net5.0\ref\InheritanceAndPolymorphism.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\InheritanceAndPolymorphism\InheritanceAndPolymorphism\obj\Debug\net5.0\InheritanceAndPolymorphism.pdb
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\InheritanceAndPolymorphism\InheritanceAndPolymorphism\obj\Debug\net5.0\InheritanceAndPolymorphism.genruntimeconfig.cache

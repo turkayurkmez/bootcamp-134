@@ -14,6 +14,8 @@ namespace Constructor
 
             Report customReport = new Report(Formats.Excel);
 
+            Report costReport = new Report { Format = Formats.Excel, Type = "Maaliyet raporu", Owner = "Sinan Kapusız" }; 
+
         }
     }
 }

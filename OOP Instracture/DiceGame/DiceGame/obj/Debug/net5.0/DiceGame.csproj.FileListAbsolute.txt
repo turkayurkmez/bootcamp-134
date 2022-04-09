@@ -1,0 +1,16 @@
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\DiceGame\DiceGame\bin\Debug\net5.0\DiceGame.exe
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\DiceGame\DiceGame\bin\Debug\net5.0\DiceGame.deps.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\DiceGame\DiceGame\bin\Debug\net5.0\DiceGame.runtimeconfig.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\DiceGame\DiceGame\bin\Debug\net5.0\DiceGame.runtimeconfig.dev.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\DiceGame\DiceGame\bin\Debug\net5.0\DiceGame.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\DiceGame\DiceGame\bin\Debug\net5.0\ref\DiceGame.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\DiceGame\DiceGame\bin\Debug\net5.0\DiceGame.pdb
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\DiceGame\DiceGame\obj\Debug\net5.0\DiceGame.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\DiceGame\DiceGame\obj\Debug\net5.0\DiceGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\DiceGame\DiceGame\obj\Debug\net5.0\DiceGame.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\DiceGame\DiceGame\obj\Debug\net5.0\DiceGame.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\DiceGame\DiceGame\obj\Debug\net5.0\DiceGame.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\DiceGame\DiceGame\obj\Debug\net5.0\DiceGame.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\DiceGame\DiceGame\obj\Debug\net5.0\ref\DiceGame.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\DiceGame\DiceGame\obj\Debug\net5.0\DiceGame.pdb
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\DiceGame\DiceGame\obj\Debug\net5.0\DiceGame.genruntimeconfig.cache
