@@ -1,0 +1,16 @@
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\MethodOverloading\MethodOverloading\bin\Debug\net5.0\MethodOverloading.exe
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\MethodOverloading\MethodOverloading\bin\Debug\net5.0\MethodOverloading.deps.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\MethodOverloading\MethodOverloading\bin\Debug\net5.0\MethodOverloading.runtimeconfig.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\MethodOverloading\MethodOverloading\bin\Debug\net5.0\MethodOverloading.runtimeconfig.dev.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\MethodOverloading\MethodOverloading\bin\Debug\net5.0\MethodOverloading.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\MethodOverloading\MethodOverloading\bin\Debug\net5.0\ref\MethodOverloading.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\MethodOverloading\MethodOverloading\bin\Debug\net5.0\MethodOverloading.pdb
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\MethodOverloading\MethodOverloading\obj\Debug\net5.0\MethodOverloading.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\MethodOverloading\MethodOverloading\obj\Debug\net5.0\MethodOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\MethodOverloading\MethodOverloading\obj\Debug\net5.0\MethodOverloading.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\MethodOverloading\MethodOverloading\obj\Debug\net5.0\MethodOverloading.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\MethodOverloading\MethodOverloading\obj\Debug\net5.0\MethodOverloading.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\MethodOverloading\MethodOverloading\obj\Debug\net5.0\MethodOverloading.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\MethodOverloading\MethodOverloading\obj\Debug\net5.0\ref\MethodOverloading.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\MethodOverloading\MethodOverloading\obj\Debug\net5.0\MethodOverloading.pdb
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\MethodOverloading\MethodOverloading\obj\Debug\net5.0\MethodOverloading.genruntimeconfig.cache

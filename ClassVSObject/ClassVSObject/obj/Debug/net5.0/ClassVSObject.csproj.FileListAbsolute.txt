@@ -1,0 +1,16 @@
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\ClassVSObject\ClassVSObject\bin\Debug\net5.0\ClassVSObject.exe
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\ClassVSObject\ClassVSObject\bin\Debug\net5.0\ClassVSObject.deps.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\ClassVSObject\ClassVSObject\bin\Debug\net5.0\ClassVSObject.runtimeconfig.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\ClassVSObject\ClassVSObject\bin\Debug\net5.0\ClassVSObject.runtimeconfig.dev.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\ClassVSObject\ClassVSObject\bin\Debug\net5.0\ClassVSObject.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\ClassVSObject\ClassVSObject\bin\Debug\net5.0\ref\ClassVSObject.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\ClassVSObject\ClassVSObject\bin\Debug\net5.0\ClassVSObject.pdb
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\ClassVSObject\ClassVSObject\obj\Debug\net5.0\ClassVSObject.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\ClassVSObject\ClassVSObject\obj\Debug\net5.0\ClassVSObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\ClassVSObject\ClassVSObject\obj\Debug\net5.0\ClassVSObject.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\ClassVSObject\ClassVSObject\obj\Debug\net5.0\ClassVSObject.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\ClassVSObject\ClassVSObject\obj\Debug\net5.0\ClassVSObject.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\ClassVSObject\ClassVSObject\obj\Debug\net5.0\ClassVSObject.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\ClassVSObject\ClassVSObject\obj\Debug\net5.0\ref\ClassVSObject.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\ClassVSObject\ClassVSObject\obj\Debug\net5.0\ClassVSObject.pdb
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\ClassVSObject\ClassVSObject\obj\Debug\net5.0\ClassVSObject.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\MethodDetails\MethodDetails\bin\Debug\net5.0\MethodDetails.exe
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\MethodDetails\MethodDetails\bin\Debug\net5.0\MethodDetails.deps.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\MethodDetails\MethodDetails\bin\Debug\net5.0\MethodDetails.runtimeconfig.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\MethodDetails\MethodDetails\bin\Debug\net5.0\MethodDetails.runtimeconfig.dev.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\MethodDetails\MethodDetails\bin\Debug\net5.0\MethodDetails.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\MethodDetails\MethodDetails\bin\Debug\net5.0\ref\MethodDetails.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\MethodDetails\MethodDetails\bin\Debug\net5.0\MethodDetails.pdb
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\MethodDetails\MethodDetails\obj\Debug\net5.0\MethodDetails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\MethodDetails\MethodDetails\obj\Debug\net5.0\MethodDetails.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\MethodDetails\MethodDetails\obj\Debug\net5.0\MethodDetails.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\MethodDetails\MethodDetails\obj\Debug\net5.0\MethodDetails.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\MethodDetails\MethodDetails\obj\Debug\net5.0\MethodDetails.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\MethodDetails\MethodDetails\obj\Debug\net5.0\ref\MethodDetails.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\MethodDetails\MethodDetails\obj\Debug\net5.0\MethodDetails.pdb
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\MethodDetails\MethodDetails\obj\Debug\net5.0\MethodDetails.genruntimeconfig.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\MethodDetails\MethodDetails\obj\Debug\net5.0\MethodDetails.csproj.AssemblyReference.cache
