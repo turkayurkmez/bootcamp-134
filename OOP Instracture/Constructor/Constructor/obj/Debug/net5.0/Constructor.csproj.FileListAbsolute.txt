@@ -1,0 +1,15 @@
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\Constructor\Constructor\bin\Debug\net5.0\Constructor.exe
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\Constructor\Constructor\bin\Debug\net5.0\Constructor.deps.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\Constructor\Constructor\bin\Debug\net5.0\Constructor.runtimeconfig.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\Constructor\Constructor\bin\Debug\net5.0\Constructor.runtimeconfig.dev.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\Constructor\Constructor\bin\Debug\net5.0\Constructor.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\Constructor\Constructor\bin\Debug\net5.0\ref\Constructor.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\Constructor\Constructor\bin\Debug\net5.0\Constructor.pdb
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\Constructor\Constructor\obj\Debug\net5.0\Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\Constructor\Constructor\obj\Debug\net5.0\Constructor.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\Constructor\Constructor\obj\Debug\net5.0\Constructor.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\Constructor\Constructor\obj\Debug\net5.0\Constructor.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\Constructor\Constructor\obj\Debug\net5.0\Constructor.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\Constructor\Constructor\obj\Debug\net5.0\ref\Constructor.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\Constructor\Constructor\obj\Debug\net5.0\Constructor.pdb
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\Constructor\Constructor\obj\Debug\net5.0\Constructor.genruntimeconfig.cache
