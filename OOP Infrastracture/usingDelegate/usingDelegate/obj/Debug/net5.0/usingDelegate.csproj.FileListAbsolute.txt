@@ -1,0 +1,16 @@
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Infrastracture\usingDelegate\usingDelegate\bin\Debug\net5.0\usingDelegate.exe
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Infrastracture\usingDelegate\usingDelegate\bin\Debug\net5.0\usingDelegate.deps.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Infrastracture\usingDelegate\usingDelegate\bin\Debug\net5.0\usingDelegate.runtimeconfig.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Infrastracture\usingDelegate\usingDelegate\bin\Debug\net5.0\usingDelegate.runtimeconfig.dev.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Infrastracture\usingDelegate\usingDelegate\bin\Debug\net5.0\usingDelegate.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Infrastracture\usingDelegate\usingDelegate\bin\Debug\net5.0\ref\usingDelegate.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Infrastracture\usingDelegate\usingDelegate\bin\Debug\net5.0\usingDelegate.pdb
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Infrastracture\usingDelegate\usingDelegate\obj\Debug\net5.0\usingDelegate.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Infrastracture\usingDelegate\usingDelegate\obj\Debug\net5.0\usingDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Infrastracture\usingDelegate\usingDelegate\obj\Debug\net5.0\usingDelegate.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Infrastracture\usingDelegate\usingDelegate\obj\Debug\net5.0\usingDelegate.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Infrastracture\usingDelegate\usingDelegate\obj\Debug\net5.0\usingDelegate.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Infrastracture\usingDelegate\usingDelegate\obj\Debug\net5.0\usingDelegate.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Infrastracture\usingDelegate\usingDelegate\obj\Debug\net5.0\ref\usingDelegate.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Infrastracture\usingDelegate\usingDelegate\obj\Debug\net5.0\usingDelegate.pdb
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Infrastracture\usingDelegate\usingDelegate\obj\Debug\net5.0\usingDelegate.genruntimeconfig.cache
