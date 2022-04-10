@@ -1,0 +1,15 @@
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Infrastracture\BuiltinInterface\BuiltinInterface\bin\Debug\net5.0\BuiltinInterface.exe
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Infrastracture\BuiltinInterface\BuiltinInterface\bin\Debug\net5.0\BuiltinInterface.deps.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Infrastracture\BuiltinInterface\BuiltinInterface\bin\Debug\net5.0\BuiltinInterface.runtimeconfig.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Infrastracture\BuiltinInterface\BuiltinInterface\bin\Debug\net5.0\BuiltinInterface.runtimeconfig.dev.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Infrastracture\BuiltinInterface\BuiltinInterface\bin\Debug\net5.0\BuiltinInterface.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Infrastracture\BuiltinInterface\BuiltinInterface\bin\Debug\net5.0\ref\BuiltinInterface.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Infrastracture\BuiltinInterface\BuiltinInterface\bin\Debug\net5.0\BuiltinInterface.pdb
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Infrastracture\BuiltinInterface\BuiltinInterface\obj\Debug\net5.0\BuiltinInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Infrastracture\BuiltinInterface\BuiltinInterface\obj\Debug\net5.0\BuiltinInterface.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Infrastracture\BuiltinInterface\BuiltinInterface\obj\Debug\net5.0\BuiltinInterface.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Infrastracture\BuiltinInterface\BuiltinInterface\obj\Debug\net5.0\BuiltinInterface.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Infrastracture\BuiltinInterface\BuiltinInterface\obj\Debug\net5.0\BuiltinInterface.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Infrastracture\BuiltinInterface\BuiltinInterface\obj\Debug\net5.0\ref\BuiltinInterface.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Infrastracture\BuiltinInterface\BuiltinInterface\obj\Debug\net5.0\BuiltinInterface.pdb
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Infrastracture\BuiltinInterface\BuiltinInterface\obj\Debug\net5.0\BuiltinInterface.genruntimeconfig.cache
