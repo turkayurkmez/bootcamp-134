@@ -8,7 +8,7 @@ namespace AbstractionAndInterface
 {
     public abstract class DataSource
     {
-        public abstract void SaveData(string data);
+       // public abstract void SaveData(string data);
         public abstract void GetData();
 
         public abstract void Open();
@@ -23,7 +23,12 @@ namespace AbstractionAndInterface
 
     }
 
-    public class SqlDataSource : DataSource
+    public interface IRecordable
+    {
+        void SaveData(string value);
+    }
+
+    public class SqlDataSource : DataSource,IRecordable
     {
         public override void GetData()
         {
@@ -35,7 +40,7 @@ namespace AbstractionAndInterface
             Console.WriteLine("sql Bağlantısı açılıyor");
         }
 
-        public override void SaveData(string data)
+        public  void SaveData(string data)
         {
             Console.WriteLine("SQL'e veri yazılıyor");
 
@@ -55,14 +60,10 @@ namespace AbstractionAndInterface
 
         }
 
-        public override void SaveData(string data)
-        {
-            Console.WriteLine("XML'e veri yazılıyor");
-
-        }
+      
     }
 
-    public class OracleDatasource : DataSource
+    public class OracleDatasource : DataSource, IRecordable
     {
         public override void GetData()
         {
@@ -74,7 +75,7 @@ namespace AbstractionAndInterface
             throw new NotImplementedException();
         }
 
-        public override void SaveData(string data)
+        public void SaveData(string data)
         {
             throw new NotImplementedException();
         }

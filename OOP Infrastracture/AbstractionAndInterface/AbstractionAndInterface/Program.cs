@@ -11,10 +11,16 @@ namespace AbstractionAndInterface
 
             VendorBusiness vendorBusiness = new VendorBusiness();
             vendorBusiness.DataSource = sqlDataSource;
-            vendorBusiness.DataSource.SaveData("örnek");
+            vendorBusiness.DataSource.GetData();
 
             vendorBusiness.DataSource = xmlDataSource;
-            vendorBusiness.DataSource.SaveData("xml örnek");
+            //vendorBusiness.DataSource.SaveData("xml örnek");
+
+            Recorder recorder = new Recorder();
+            recorder.RecordData(new SqlDataSource());
+            recorder.RecordData(new OracleDatasource());
+
+           // recorder.RecordData(new XmlDataSource());
         }
     }
 }
