@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\turka\\source\\repos\\Kodluyoruz Bootcamp\\134\\OOP Instracture\\AbstractionAndInterface\\AbstractionAndInterface\\AbstractionAndInterface.csproj",
+      "projectUniqueName": "C:\\Users\\turka\\source\\repos\\Kodluyoruz Bootcamp\\134\\OOP Infrastracture\\AbstractionAndInterface\\AbstractionAndInterface\\AbstractionAndInterface.csproj",
       "projectName": "AbstractionAndInterface",
-      "projectPath": "C:\\Users\\turka\\source\\repos\\Kodluyoruz Bootcamp\\134\\OOP Instracture\\AbstractionAndInterface\\AbstractionAndInterface\\AbstractionAndInterface.csproj",
+      "projectPath": "C:\\Users\\turka\\source\\repos\\Kodluyoruz Bootcamp\\134\\OOP Infrastracture\\AbstractionAndInterface\\AbstractionAndInterface\\AbstractionAndInterface.csproj",
       "packagesPath": "C:\\Users\\turka\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\turka\\source\\repos\\Kodluyoruz Bootcamp\\134\\OOP Instracture\\AbstractionAndInterface\\AbstractionAndInterface\\obj\\",
+      "outputPath": "C:\\Users\\turka\\source\\repos\\Kodluyoruz Bootcamp\\134\\OOP Infrastracture\\AbstractionAndInterface\\AbstractionAndInterface\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\turka\\AppData\\Roaming\\NuGet\\NuGet.Config",
