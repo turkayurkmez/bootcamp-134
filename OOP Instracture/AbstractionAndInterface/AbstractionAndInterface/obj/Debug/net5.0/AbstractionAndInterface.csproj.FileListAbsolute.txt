@@ -1,0 +1,16 @@
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\AbstractionAndInterface\AbstractionAndInterface\bin\Debug\net5.0\AbstractionAndInterface.exe
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\AbstractionAndInterface\AbstractionAndInterface\bin\Debug\net5.0\AbstractionAndInterface.deps.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\AbstractionAndInterface\AbstractionAndInterface\bin\Debug\net5.0\AbstractionAndInterface.runtimeconfig.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\AbstractionAndInterface\AbstractionAndInterface\bin\Debug\net5.0\AbstractionAndInterface.runtimeconfig.dev.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\AbstractionAndInterface\AbstractionAndInterface\bin\Debug\net5.0\AbstractionAndInterface.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\AbstractionAndInterface\AbstractionAndInterface\bin\Debug\net5.0\ref\AbstractionAndInterface.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\AbstractionAndInterface\AbstractionAndInterface\bin\Debug\net5.0\AbstractionAndInterface.pdb
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\AbstractionAndInterface\AbstractionAndInterface\obj\Debug\net5.0\AbstractionAndInterface.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\AbstractionAndInterface\AbstractionAndInterface\obj\Debug\net5.0\AbstractionAndInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\AbstractionAndInterface\AbstractionAndInterface\obj\Debug\net5.0\AbstractionAndInterface.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\AbstractionAndInterface\AbstractionAndInterface\obj\Debug\net5.0\AbstractionAndInterface.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\AbstractionAndInterface\AbstractionAndInterface\obj\Debug\net5.0\AbstractionAndInterface.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\AbstractionAndInterface\AbstractionAndInterface\obj\Debug\net5.0\AbstractionAndInterface.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\AbstractionAndInterface\AbstractionAndInterface\obj\Debug\net5.0\ref\AbstractionAndInterface.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\AbstractionAndInterface\AbstractionAndInterface\obj\Debug\net5.0\AbstractionAndInterface.pdb
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\OOP Instracture\AbstractionAndInterface\AbstractionAndInterface\obj\Debug\net5.0\AbstractionAndInterface.genruntimeconfig.cache
