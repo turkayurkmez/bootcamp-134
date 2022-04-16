@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\turka\\source\\repos\\Kodluyoruz Bootcamp\\134\\OOP Infrastracture\\usingDelegate\\usingDelegate\\usingDelegate.csproj",
-      "projectName": "usingDelegate",
-      "projectPath": "C:\\Users\\turka\\source\\repos\\Kodluyoruz Bootcamp\\134\\OOP Infrastracture\\usingDelegate\\usingDelegate\\usingDelegate.csproj",
+      "projectUniqueName": "C:\\Users\\turka\\source\\repos\\Kodluyoruz Bootcamp\\134\\IntroductionToCsharp\\usingLinq\\usingLinq\\usingLinq.csproj",
+      "projectName": "usingLinq",
+      "projectPath": "C:\\Users\\turka\\source\\repos\\Kodluyoruz Bootcamp\\134\\IntroductionToCsharp\\usingLinq\\usingLinq\\usingLinq.csproj",
       "packagesPath": "C:\\Users\\turka\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\turka\\source\\repos\\Kodluyoruz Bootcamp\\134\\OOP Infrastracture\\usingDelegate\\usingDelegate\\obj\\",
+      "outputPath": "C:\\Users\\turka\\source\\repos\\Kodluyoruz Bootcamp\\134\\IntroductionToCsharp\\usingLinq\\usingLinq\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\turka\\AppData\\Roaming\\NuGet\\NuGet.Config",

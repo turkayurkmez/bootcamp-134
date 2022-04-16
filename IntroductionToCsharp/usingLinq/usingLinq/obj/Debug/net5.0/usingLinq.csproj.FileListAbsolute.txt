@@ -1,0 +1,16 @@
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\IntroductionToCsharp\usingLinq\usingLinq\bin\Debug\net5.0\usingLinq.exe
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\IntroductionToCsharp\usingLinq\usingLinq\bin\Debug\net5.0\usingLinq.deps.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\IntroductionToCsharp\usingLinq\usingLinq\bin\Debug\net5.0\usingLinq.runtimeconfig.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\IntroductionToCsharp\usingLinq\usingLinq\bin\Debug\net5.0\usingLinq.runtimeconfig.dev.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\IntroductionToCsharp\usingLinq\usingLinq\bin\Debug\net5.0\usingLinq.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\IntroductionToCsharp\usingLinq\usingLinq\bin\Debug\net5.0\ref\usingLinq.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\IntroductionToCsharp\usingLinq\usingLinq\bin\Debug\net5.0\usingLinq.pdb
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\IntroductionToCsharp\usingLinq\usingLinq\obj\Debug\net5.0\usingLinq.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\IntroductionToCsharp\usingLinq\usingLinq\obj\Debug\net5.0\usingLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\IntroductionToCsharp\usingLinq\usingLinq\obj\Debug\net5.0\usingLinq.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\IntroductionToCsharp\usingLinq\usingLinq\obj\Debug\net5.0\usingLinq.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\IntroductionToCsharp\usingLinq\usingLinq\obj\Debug\net5.0\usingLinq.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\IntroductionToCsharp\usingLinq\usingLinq\obj\Debug\net5.0\usingLinq.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\IntroductionToCsharp\usingLinq\usingLinq\obj\Debug\net5.0\ref\usingLinq.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\IntroductionToCsharp\usingLinq\usingLinq\obj\Debug\net5.0\usingLinq.pdb
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\IntroductionToCsharp\usingLinq\usingLinq\obj\Debug\net5.0\usingLinq.genruntimeconfig.cache
