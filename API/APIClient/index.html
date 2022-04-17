@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <ul id="products">
+
+    </ul>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script>
+        $(document).ready(function(){
+            $.ajax({
+                url:'https://localhost:7227/api/products',
+                method:'GET',
+                success:function(data){
+                    console.log(data);
+                    $.each(data,function(index,value){
+                        let li = $('<li>');
+                        let h3 = $('<h3>');
+                        let img = $('<img>');
+                        h3.text(value.name);
+                        img.attr('src',value.imageUrl);
+                        li.append(h3);
+                        li.append(img);
+
+                        $('#products').append(li);
+
+                    });
+                
+                }
+            });
+        });
+    </script>
+
+</body>
+</html>

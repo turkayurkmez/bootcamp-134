@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "uL8FqzKs/9hF6HLjYwnqf4BDj1AbA+EWuBOlI2T3bur+8JkgkDKvtJ9z1LXE6zXid6FGX3UmVLdpW34ip2PDvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\turka\\source\\repos\\Kodluyoruz Bootcamp\\134\\API\\introAPIwithVSCode\\introAPIwithVSCode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\turka\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\turka\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\turka\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\turka\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\turka\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\turka\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
