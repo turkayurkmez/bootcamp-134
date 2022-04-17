@@ -1,40 +1,61 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
+
 <body>
+    <div>
+        <input type="text">
+
+    </div>
     <ul id="products">
 
     </ul>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script>
-        $(document).ready(function(){
+        $(document).ready(function () {
             $.ajax({
-                url:'https://localhost:7227/api/products',
-                method:'GET',
-                success:function(data){
+                url: 'https://localhost:7287/api/products',
+                method: 'POST',
+                contentType: "application/json",
+                data: JSON.stringify({
+                    "name": "aaa",
+                    "price": 20
+                }),
+                success: function (data, status, xhr) {
+                    console.log(xhr);  
                     console.log(data);
-                    $.each(data,function(index,value){
-                        let li = $('<li>');
-                        let h3 = $('<h3>');
-                        let img = $('<img>');
-                        h3.text(value.name);
-                        img.attr('src',value.imageUrl);
-                        li.append(h3);
-                        li.append(img);
+                    // $.each(data,function(index,value){
+                    //     let li = $('<li>');
+                    //     let h3 = $('<h3>');
+                    //     let img = $('<img>');
+                    //     h3.text(value.name);
+                    //     img.attr('src',value.imageUrl);
+                    //     li.append(h3);
+                    //     li.append(img);
 
-                        $('#products').append(li);
+                    //     $('#products').append(li);
 
-                    });
-                
+                    // });
+
+                },
+                error: function (err) {
+                    console.log('error');
+                    console.log(err.statusText);
+                    console.log(err.responseText.message);
+                    let error = JSON.parse(err.responseText);
+                    console.log(error.message);
+                    alert(error.message);
                 }
             });
         });
     </script>
 
 </body>
+
 </html>

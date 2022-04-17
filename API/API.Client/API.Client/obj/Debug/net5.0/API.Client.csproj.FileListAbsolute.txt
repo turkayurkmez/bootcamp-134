@@ -1,0 +1,16 @@
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\API.Client\API.Client\bin\Debug\net5.0\API.Client.exe
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\API.Client\API.Client\bin\Debug\net5.0\API.Client.deps.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\API.Client\API.Client\bin\Debug\net5.0\API.Client.runtimeconfig.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\API.Client\API.Client\bin\Debug\net5.0\API.Client.runtimeconfig.dev.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\API.Client\API.Client\bin\Debug\net5.0\API.Client.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\API.Client\API.Client\bin\Debug\net5.0\ref\API.Client.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\API.Client\API.Client\bin\Debug\net5.0\API.Client.pdb
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\API.Client\API.Client\obj\Debug\net5.0\API.Client.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\API.Client\API.Client\obj\Debug\net5.0\API.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\API.Client\API.Client\obj\Debug\net5.0\API.Client.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\API.Client\API.Client\obj\Debug\net5.0\API.Client.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\API.Client\API.Client\obj\Debug\net5.0\API.Client.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\API.Client\API.Client\obj\Debug\net5.0\API.Client.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\API.Client\API.Client\obj\Debug\net5.0\ref\API.Client.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\API.Client\API.Client\obj\Debug\net5.0\API.Client.pdb
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\API.Client\API.Client\obj\Debug\net5.0\API.Client.genruntimeconfig.cache
