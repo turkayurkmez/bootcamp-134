@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "plHh1Y2wkD+v+KZ0WGvgC2r5y2bpJCDgBdFJsUVBAsloCyrNebM9p/CoBV61OXeSUFPBgoc+tvNVO1wIzGzMlg==",
+  "dgSpecHash": "Ig1S8S7NUVbCQvBVC85dQjpa5cc0dbePvCnOysHf2TRsDLsCIetsb9ueR2YBoo96RJghm0N6voxe9jXUB7MLGw==",
   "success": true,
   "projectFilePath": "C:\\Users\\turka\\source\\repos\\Kodluyoruz Bootcamp\\134\\API\\Catalog.API\\Catalog.Business\\Catalog.Business.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\turka\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\turka\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\turka\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\turka\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\turka\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\turka\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\turka\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

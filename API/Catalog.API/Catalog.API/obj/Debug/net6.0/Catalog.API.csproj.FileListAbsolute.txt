@@ -30,3 +30,8 @@ C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\Catalog.API\Catalog.API\
 C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\Catalog.API\Catalog.API\obj\Debug\net6.0\Catalog.API.pdb
 C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\Catalog.API\Catalog.API\obj\Debug\net6.0\Catalog.API.genruntimeconfig.cache
 C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\Catalog.API\Catalog.API\obj\Debug\net6.0\ref\Catalog.API.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\Catalog.API\Catalog.API\bin\Debug\net6.0\Catalog.DataTransferObjects.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\Catalog.API\Catalog.API\bin\Debug\net6.0\Catalog.DataTransferObjects.pdb
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\Catalog.API\Catalog.API\obj\Debug\net6.0\Catalog.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\Catalog.API\Catalog.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\Catalog.API\Catalog.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

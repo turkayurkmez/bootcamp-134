@@ -15,3 +15,5 @@ C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\Catalog.API\Catalog.Busi
 C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\Catalog.API\Catalog.Business\obj\Debug\net6.0\refint\Catalog.Business.dll
 C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\Catalog.API\Catalog.Business\obj\Debug\net6.0\Catalog.Business.pdb
 C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\Catalog.API\Catalog.Business\obj\Debug\net6.0\ref\Catalog.Business.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\Catalog.API\Catalog.Business\bin\Debug\net6.0\Catalog.DataTransferObjects.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\Catalog.API\Catalog.Business\bin\Debug\net6.0\Catalog.DataTransferObjects.pdb

@@ -1,4 +1,5 @@
 using Catalog.Business;
+using Catalog.Business.Mapping;
 using Catalog.DataAccess.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -11,6 +12,8 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddScoped<IProductService, ProductService>();
 builder.Services.AddScoped<IProductRepository, FakeProductRepository>();
+
+builder.Services.AddAutoMapper(typeof(MapProfile));
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

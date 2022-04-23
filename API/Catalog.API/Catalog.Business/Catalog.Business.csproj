@@ -7,7 +7,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\Catalog.DataAccess\Catalog.DataAccess.csproj" />
+    <ProjectReference Include="..\Catalog.DataTransferObjects\Catalog.DataTransferObjects.csproj" />
   </ItemGroup>
 
 

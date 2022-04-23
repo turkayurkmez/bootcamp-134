@@ -15,9 +15,8 @@ namespace Catalog.API.Controllers
         {
             service = productService; 
         }
-        [HttpGet]
 
-        
+        [HttpGet]       
         public async Task<IActionResult> GetProducts()
         {
            

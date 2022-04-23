@@ -1,4 +1,5 @@
-﻿using Catalog.Entities;
+﻿using Catalog.DataTransferObjects.Responses;
+using Catalog.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,6 +10,6 @@ namespace Catalog.Business
 {
     public interface IProductService
     {
-        Task<IList<Product>> GetProducts();
+        Task<IList<ProductDisplayResponse>> GetProducts();
     }
 }

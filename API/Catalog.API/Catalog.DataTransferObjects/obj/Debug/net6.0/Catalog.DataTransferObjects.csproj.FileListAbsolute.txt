@@ -1,0 +1,12 @@
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\Catalog.API\Catalog.DataTransferObjects\bin\Debug\net6.0\Catalog.DataTransferObjects.deps.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\Catalog.API\Catalog.DataTransferObjects\bin\Debug\net6.0\Catalog.DataTransferObjects.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\Catalog.API\Catalog.DataTransferObjects\bin\Debug\net6.0\Catalog.DataTransferObjects.pdb
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\Catalog.API\Catalog.DataTransferObjects\obj\Debug\net6.0\Catalog.DataTransferObjects.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\Catalog.API\Catalog.DataTransferObjects\obj\Debug\net6.0\Catalog.DataTransferObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\Catalog.API\Catalog.DataTransferObjects\obj\Debug\net6.0\Catalog.DataTransferObjects.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\Catalog.API\Catalog.DataTransferObjects\obj\Debug\net6.0\Catalog.DataTransferObjects.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\Catalog.API\Catalog.DataTransferObjects\obj\Debug\net6.0\Catalog.DataTransferObjects.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\Catalog.API\Catalog.DataTransferObjects\obj\Debug\net6.0\Catalog.DataTransferObjects.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\Catalog.API\Catalog.DataTransferObjects\obj\Debug\net6.0\refint\Catalog.DataTransferObjects.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\Catalog.API\Catalog.DataTransferObjects\obj\Debug\net6.0\Catalog.DataTransferObjects.pdb
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\Catalog.API\Catalog.DataTransferObjects\obj\Debug\net6.0\ref\Catalog.DataTransferObjects.dll
