@@ -1,0 +1,108 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Catalog.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Catalog.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Catalog.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Catalog.DataAccess.dll": {}
+        }
+      },
+      "Catalog.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Catalog.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Catalog.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Catalog.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../Catalog.DataAccess/Catalog.DataAccess.csproj",
+      "msbuildProject": "../Catalog.DataAccess/Catalog.DataAccess.csproj"
+    },
+    "Catalog.Entities/1.0.0": {
+      "type": "project",
+      "path": "../Catalog.Entities/Catalog.Entities.csproj",
+      "msbuildProject": "../Catalog.Entities/Catalog.Entities.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Catalog.DataAccess >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\turka\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\turka\\source\\repos\\Kodluyoruz Bootcamp\\134\\API\\Catalog.API\\Catalog.Business\\Catalog.Business.csproj",
+      "projectName": "Catalog.Business",
+      "projectPath": "C:\\Users\\turka\\source\\repos\\Kodluyoruz Bootcamp\\134\\API\\Catalog.API\\Catalog.Business\\Catalog.Business.csproj",
+      "packagesPath": "C:\\Users\\turka\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\turka\\source\\repos\\Kodluyoruz Bootcamp\\134\\API\\Catalog.API\\Catalog.Business\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\turka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\turka\\source\\repos\\Kodluyoruz Bootcamp\\134\\API\\Catalog.API\\Catalog.DataAccess\\Catalog.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\turka\\source\\repos\\Kodluyoruz Bootcamp\\134\\API\\Catalog.API\\Catalog.DataAccess\\Catalog.DataAccess.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

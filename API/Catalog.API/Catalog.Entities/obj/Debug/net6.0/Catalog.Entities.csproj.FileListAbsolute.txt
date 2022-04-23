@@ -1,0 +1,12 @@
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\Catalog.API\Catalog.Entities\bin\Debug\net6.0\Catalog.Entities.deps.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\Catalog.API\Catalog.Entities\bin\Debug\net6.0\Catalog.Entities.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\Catalog.API\Catalog.Entities\bin\Debug\net6.0\Catalog.Entities.pdb
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\Catalog.API\Catalog.Entities\obj\Debug\net6.0\Catalog.Entities.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\Catalog.API\Catalog.Entities\obj\Debug\net6.0\Catalog.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\Catalog.API\Catalog.Entities\obj\Debug\net6.0\Catalog.Entities.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\Catalog.API\Catalog.Entities\obj\Debug\net6.0\Catalog.Entities.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\Catalog.API\Catalog.Entities\obj\Debug\net6.0\Catalog.Entities.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\Catalog.API\Catalog.Entities\obj\Debug\net6.0\Catalog.Entities.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\Catalog.API\Catalog.Entities\obj\Debug\net6.0\refint\Catalog.Entities.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\Catalog.API\Catalog.Entities\obj\Debug\net6.0\Catalog.Entities.pdb
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\Catalog.API\Catalog.Entities\obj\Debug\net6.0\ref\Catalog.Entities.dll

@@ -1,0 +1,17 @@
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\Catalog.API\Catalog.Business\obj\Debug\net6.0\Catalog.Business.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\Catalog.API\Catalog.Business\obj\Debug\net6.0\Catalog.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\Catalog.API\Catalog.Business\obj\Debug\net6.0\Catalog.Business.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\Catalog.API\Catalog.Business\obj\Debug\net6.0\Catalog.Business.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\Catalog.API\Catalog.Business\obj\Debug\net6.0\Catalog.Business.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\Catalog.API\Catalog.Business\bin\Debug\net6.0\Catalog.Business.deps.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\Catalog.API\Catalog.Business\bin\Debug\net6.0\Catalog.Business.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\Catalog.API\Catalog.Business\bin\Debug\net6.0\Catalog.Business.pdb
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\Catalog.API\Catalog.Business\bin\Debug\net6.0\Catalog.DataAccess.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\Catalog.API\Catalog.Business\bin\Debug\net6.0\Catalog.Entities.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\Catalog.API\Catalog.Business\bin\Debug\net6.0\Catalog.DataAccess.pdb
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\Catalog.API\Catalog.Business\bin\Debug\net6.0\Catalog.Entities.pdb
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\Catalog.API\Catalog.Business\obj\Debug\net6.0\Catalog.Business.csproj.CopyComplete
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\Catalog.API\Catalog.Business\obj\Debug\net6.0\Catalog.Business.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\Catalog.API\Catalog.Business\obj\Debug\net6.0\refint\Catalog.Business.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\Catalog.API\Catalog.Business\obj\Debug\net6.0\Catalog.Business.pdb
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\Catalog.API\Catalog.Business\obj\Debug\net6.0\ref\Catalog.Business.dll
