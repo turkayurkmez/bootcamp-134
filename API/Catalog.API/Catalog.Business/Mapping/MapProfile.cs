@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using Catalog.DataTransferObjects.Requests;
 using Catalog.DataTransferObjects.Responses;
 using Catalog.Entities;
 using System;
@@ -14,6 +15,8 @@ namespace Catalog.Business.Mapping
         public MapProfile()
         {
             CreateMap<Product, ProductDisplayResponse>();
+            CreateMap<AddProductRequest, Product>();
+            CreateMap<UpdateProductRequest, Product>();
         }
     }
 }

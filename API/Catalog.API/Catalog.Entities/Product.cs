@@ -14,13 +14,16 @@ namespace Catalog.Entities
         public double? Price { get; set; }
         public int? CategoryId { get; set; }
         public string ImageUrl { get; set; }
+        public int? Stock { get; set; }
+        public bool IsActive { get; set; } = true;
+
+
         public Category Category { get; set; }
 
-        public int? Stock { get; set; }
-
+    
         public DateTime? CreatedAt { get; set; }
         public DateTime? UpdatedAt { get; set; }
-        public bool IsActive { get; set; } = true;
+      
 
    
 
