@@ -17,7 +17,7 @@ namespace Catalog.API.Filters
         {
             if (!context.ActionArguments.ContainsKey("id"))
             {
-                context.Result = new BadRequestObjectResult("Id is required"); 
+                context.Result = new BadRequestObjectResult("Id gereklidir"); 
             }
             else
             {

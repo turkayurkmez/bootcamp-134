@@ -16,18 +16,19 @@ namespace Catalog.API.Controllers
 
         public ProductsController(IProductService productService)
         {
-            service = productService; 
+            service = productService;
         }
 
-        [HttpGet]       
+        [HttpGet]
         public async Task<IActionResult> GetProducts()
         {
-           
+
             var products = await service.GetProducts();
             return Ok(products);
         }
 
         [HttpGet("{id}")]
+        [IsExists]
         public async Task<IActionResult> GetProductById(int id)
         {
             ProductDisplayResponse product = await service.GetProduct(id);
@@ -46,7 +47,7 @@ namespace Catalog.API.Controllers
             if (ModelState.IsValid)
             {
                 int productId = await service.AddProduct(request);
-                return CreatedAtAction(nameof(GetProductById), routeValues: new { id=productId },value:null);
+                return CreatedAtAction(nameof(GetProductById), routeValues: new { id = productId }, value: null);
             }
 
             return BadRequest(ModelState);
@@ -58,37 +59,28 @@ namespace Catalog.API.Controllers
         {
             //if (await service.IsProductExists(id))
             //{
-                if (ModelState.IsValid)
-                {
-                   await service.UpdateProduct(request);
-                    return Ok();
-                }
-                return BadRequest(ModelState);
+            if (ModelState.IsValid)
+            {
+                await service.UpdateProduct(request);
+                return Ok();
+            }
+            return BadRequest(ModelState);
             //}
             //return NotFound(new { message = $"{id} id'li ürün bulunamadı" });
 
         }
 
-        [HttpDelete("{id}")]
-        [IsExists]
+        [HttpDelete("{id}")]      
+        [CustomException(Order = 1)]
+        [IsExists(Order =2)]
         public async Task<IActionResult> Delete(int id)
         {
-           
-          
-                await service.DeleteProduct(id);
-                return Ok();
-           
-
-         
+            if (id<0 || id > 200)
+            {
+                throw new ArgumentException("id değeri negatif olamaz!");
+            }
+            await service.DeleteProduct(id);
+            return Ok();
         }
-
-        
-
-
-
-
-
-
-
     }
 }

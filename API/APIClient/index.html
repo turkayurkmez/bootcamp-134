@@ -19,29 +19,34 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script>
         $(document).ready(function () {
+            let userName = "admin";
+            let password = "admin";
+            console.log(btoa(userName + ":" + password));
             $.ajax({
-                url: 'https://localhost:7287/api/products',
-                method: 'POST',
+                url: 'https://localhost:7272/api/Products',
+                method: 'GET',
                 contentType: "application/json",
-                data: JSON.stringify({
-                    "name": "aaa",
-                    "price": 20
-                }),
+                // data: JSON.stringify({
+                //     "name": "aaa",
+                //     "price": 20
+                // }),
+                headers:{                  
+                    'Authorization': 'Basic ' + btoa(userName + ':' + password)
+                },
                 success: function (data, status, xhr) {
-                    console.log(xhr);  
+                    console.log(xhr);
                     console.log(data);
-                    // $.each(data,function(index,value){
-                    //     let li = $('<li>');
-                    //     let h3 = $('<h3>');
-                    //     let img = $('<img>');
-                    //     h3.text(value.name);
-                    //     img.attr('src',value.imageUrl);
-                    //     li.append(h3);
-                    //     li.append(img);
+                    $.each(data, function (index, value) {
+                        let li = $('<li>');
+                        let h3 = $('<h3>');
+                        //   let img = $('<img>');
+                        h3.text(value.name + ' ' + value.price);
+                        // img.attr('src',value.imageUrl);
+                        li.append(h3);
+                        //li.append(img);
+                        $('#products').append(li);
 
-                    //     $('#products').append(li);
-
-                    // });
+                    });
 
                 },
                 error: function (err) {

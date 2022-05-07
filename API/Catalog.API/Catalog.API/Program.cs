@@ -1,8 +1,10 @@
-using Catalog.Business;
+﻿using Catalog.Business;
 using Catalog.Business.Mapping;
 using Catalog.DataAccess.Data;
 using Catalog.DataAccess.Repositories;
+using Catalog.API.Extensions;
 using Microsoft.EntityFrameworkCore;
+using Catalog.API.Middlewares;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -17,12 +19,72 @@ builder.Services.AddScoped<IProductRepository, EFProductRepository>();
 
 builder.Services.AddAutoMapper(typeof(MapProfile));
 builder.Services.AddDbContext<CatalogDbContext>(opt=> opt.UseSqlServer(builder.Configuration.GetConnectionString("db")));
+builder.Services.AddCors(opt => opt.AddPolicy("allow", cpb =>
+   {
+       cpb.AllowAnyOrigin();
+       cpb.AllowAnyHeader();
+       cpb.AllowAnyMethod();
+   }));
 
 
+builder.Services.AddAuthentication("Basic").AddScheme<>
 
 var app = builder.Build();
 
+////app.UseWelcomePage();
+//app.Run(async (context) => {
+//    await context.Response.WriteAsync("Talep, middleware tarafindan yakalandi");
+
+//}); 
+
+//app.Map("/test", middleBuilder =>
+//{
+//    middleBuilder.Run(async (ctx) =>
+//    {
+//        if (ctx.Request.Query.ContainsKey("id"))
+//        {
+//            int id = int.Parse(ctx.Request.Query["id"]);
+//            await ctx.Response.WriteAsync($"{id} degeri, middleware'a geldi <br>");
+//            using var scope = middleBuilder.ApplicationServices.CreateScope();
+//            var productService = scope.ServiceProvider.GetRequiredService<IProductService>();
+//            if (await productService.IsProductExists(id))
+//            {
+//                await ctx.Response.WriteAsync($"{id} degeri, db'de var");
+//            }
+//            else
+//            {
+//                await ctx.Response.WriteAsync($"{id} degeri, db'de yok");
+
+//            }
+
+//        }
+//        else
+//        {
+//            await ctx.Response.WriteAsync($"id degeri, middleware'a gelmedi!");
+
+//        }
+//    });
+//});
+
 // Configure the HTTP request pipeline.
+//Yukarıdaki kod yerine, bu extension metot çağrılıyor:
+app.UseProductIsExistTestPage();
+
+app.Use((ctx, next) =>
+{
+    Console.WriteLine($"{ctx.Request.Path} adresinden,  {ctx.Request.Method} talebi geldi");
+    return next();
+});
+
+
+
+
+//app.UseMiddleware<CheckBrowserIsIEMiddleware>();
+//app.UseMiddleware<ResponseEditingMiddleware>();
+//app.UseMiddleware<RedirectMiddleware>();
+
+app.UseCheckIE();
+
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
@@ -30,7 +92,11 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+app.UseStaticFiles();
 
+app.UseCors("allow");
+
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();

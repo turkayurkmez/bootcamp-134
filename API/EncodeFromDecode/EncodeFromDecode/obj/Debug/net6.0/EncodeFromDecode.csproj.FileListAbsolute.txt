@@ -1,0 +1,15 @@
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\EncodeFromDecode\EncodeFromDecode\bin\Debug\net6.0\EncodeFromDecode.exe
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\EncodeFromDecode\EncodeFromDecode\bin\Debug\net6.0\EncodeFromDecode.deps.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\EncodeFromDecode\EncodeFromDecode\bin\Debug\net6.0\EncodeFromDecode.runtimeconfig.json
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\EncodeFromDecode\EncodeFromDecode\bin\Debug\net6.0\EncodeFromDecode.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\EncodeFromDecode\EncodeFromDecode\bin\Debug\net6.0\EncodeFromDecode.pdb
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\EncodeFromDecode\EncodeFromDecode\obj\Debug\net6.0\EncodeFromDecode.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\EncodeFromDecode\EncodeFromDecode\obj\Debug\net6.0\EncodeFromDecode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\EncodeFromDecode\EncodeFromDecode\obj\Debug\net6.0\EncodeFromDecode.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\EncodeFromDecode\EncodeFromDecode\obj\Debug\net6.0\EncodeFromDecode.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\EncodeFromDecode\EncodeFromDecode\obj\Debug\net6.0\EncodeFromDecode.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\EncodeFromDecode\EncodeFromDecode\obj\Debug\net6.0\EncodeFromDecode.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\EncodeFromDecode\EncodeFromDecode\obj\Debug\net6.0\refint\EncodeFromDecode.dll
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\EncodeFromDecode\EncodeFromDecode\obj\Debug\net6.0\EncodeFromDecode.pdb
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\EncodeFromDecode\EncodeFromDecode\obj\Debug\net6.0\EncodeFromDecode.genruntimeconfig.cache
+C:\Users\turka\source\repos\Kodluyoruz Bootcamp\134\API\EncodeFromDecode\EncodeFromDecode\obj\Debug\net6.0\ref\EncodeFromDecode.dll
