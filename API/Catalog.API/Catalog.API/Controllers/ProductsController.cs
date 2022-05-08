@@ -1,10 +1,13 @@
 ﻿using Catalog.API.Filters;
+using Catalog.API.Models;
 using Catalog.Business;
 using Catalog.DataTransferObjects.Requests;
 using Catalog.DataTransferObjects.Responses;
 using Catalog.Entities;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Caching.Memory;
 
 namespace Catalog.API.Controllers
 {
@@ -13,18 +16,39 @@ namespace Catalog.API.Controllers
     public class ProductsController : ControllerBase
     {
         private readonly IProductService service;
+        private readonly IMemoryCache memoryCache;
 
-        public ProductsController(IProductService productService)
+        public ProductsController(IProductService productService, IMemoryCache memoryCache)
         {
             service = productService;
+            this.memoryCache = memoryCache;
         }
 
+        private DateTime cacheTime = DateTime.Now;
+
         [HttpGet]
+        //[Authorize(Roles ="Admin")]
         public async Task<IActionResult> GetProducts()
         {
 
-            var products = await service.GetProducts();
-            return Ok(products);
+
+            ///memoryCache.GetOrCreateAsync<>
+
+            if (!memoryCache.TryGetValue("productsCache", out CacheProofModel proof))
+            {
+                var entryOptions = new MemoryCacheEntryOptions().SetSlidingExpiration(TimeSpan.FromMinutes(5))
+                                                                .RegisterPostEvictionCallback((key, value, reason, state) =>
+                                                                {
+                                                                    //memory cache içinden bir data çıkarıldığında çalışmasını istediğiniz işlemleri burada yazacaksınız;
+                                                                });
+
+                memoryCache.Set("productsCache", new CacheProofModel { Products = await service.GetProducts(), CacheTime = DateTime.Now }, DateTime.Now.AddMinutes(1));
+                proof = new CacheProofModel { Products = await service.GetProducts(), CacheTime = DateTime.Now };
+
+            }
+
+
+            return Ok(proof);
         }
 
         [HttpGet("{id}")]
@@ -42,6 +66,7 @@ namespace Catalog.API.Controllers
         }
 
         [HttpPost]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Add(AddProductRequest request)
         {
             if (ModelState.IsValid)
@@ -70,12 +95,12 @@ namespace Catalog.API.Controllers
 
         }
 
-        [HttpDelete("{id}")]      
+        [HttpDelete("{id}")]
         [CustomException(Order = 1)]
-        [IsExists(Order =2)]
+        [IsExists(Order = 2)]
         public async Task<IActionResult> Delete(int id)
         {
-            if (id<0 || id > 200)
+            if (id < 0 || id > 200)
             {
                 throw new ArgumentException("id değeri negatif olamaz!");
             }

@@ -5,6 +5,10 @@ using Catalog.DataAccess.Repositories;
 using Catalog.API.Extensions;
 using Microsoft.EntityFrameworkCore;
 using Catalog.API.Middlewares;
+using Catalog.API.Security;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.IdentityModel.Tokens;
+using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -16,9 +20,11 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddScoped<IProductService, ProductService>();
 builder.Services.AddScoped<IProductRepository, EFProductRepository>();
+builder.Services.AddScoped<IUserRepository, FakeUserRepository>();
+builder.Services.AddScoped<IUserService, UserService>();
 
 builder.Services.AddAutoMapper(typeof(MapProfile));
-builder.Services.AddDbContext<CatalogDbContext>(opt=> opt.UseSqlServer(builder.Configuration.GetConnectionString("db")));
+builder.Services.AddDbContext<CatalogDbContext>(opt => opt.UseSqlServer(builder.Configuration.GetConnectionString("db")));
 builder.Services.AddCors(opt => opt.AddPolicy("allow", cpb =>
    {
        cpb.AllowAnyOrigin();
@@ -26,8 +32,26 @@ builder.Services.AddCors(opt => opt.AddPolicy("allow", cpb =>
        cpb.AllowAnyMethod();
    }));
 
+builder.Services.AddMemoryCache();
 
-builder.Services.AddAuthentication("Basic").AddScheme<>
+var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration.GetSection("token:secret").Value));
+
+//builder.Services.AddAuthentication("Basic").AddScheme<BasicAuthenticationOptions, BasicAuthenticationHandler>("Basic", null);
+builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+                .AddJwtBearer(options =>
+                {
+                    options.SaveToken = true;
+                    options.TokenValidationParameters = new TokenValidationParameters
+                    {
+                        ValidateIssuer = true,
+                        ValidateAudience = true,
+                        ValidateActor = true,
+                        ValidIssuer = "http://www.kodluyoruz.com",
+                        ValidAudience = "http://client.kodluyoruz.com",
+                        IssuerSigningKey = key
+
+                    };
+                });
 
 var app = builder.Build();
 
